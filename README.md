@@ -19,7 +19,6 @@ Este portfólio foi desenvolvido utilizando as seguintes tecnologias:
   - Node.js (dependendo dos projetos futuros)
   - Express (dependendo dos projetos futuros)
 
-### Parte 4: Link do Portfólio Online
 
 ## 🌍 Visite o meu portfólio online
 
