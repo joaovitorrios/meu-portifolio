@@ -32,7 +32,8 @@ Caso prefira ver o meu portfólio online, você pode acessá-lo pelo link abaixo
 
 Caso tenha alguma dúvida ou sugestão, entre em contato comigo:
 
-- **Email**: joao@exemplo.com
+- **Email**: joaovitorriosdev@gmail.com
 - **LinkedIn**: [João Vitor](https://www.linkedin.com/in/joaovitorrios/)
+  
 
 Agradeço por visitar o meu portfólio! 🚀
