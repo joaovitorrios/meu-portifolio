@@ -21,13 +21,14 @@ Este portfólio foi desenvolvido utilizando as seguintes tecnologias:
 
 ### Parte 4: Link do Portfólio Online
 
-```markdown
 ## 🌍 Visite o meu portfólio online
 
 Caso prefira ver o meu portfólio online, você pode acessá-lo pelo link abaixo:
 
 🔗 **Meu Portfólio Pessoal Online** [Acessar Portfólio](https://joaovitorriosdev.netlify.app)
-## 📞 Contato
+## 
+
+📞 Contato
 
 Caso tenha alguma dúvida ou sugestão, entre em contato comigo:
 
